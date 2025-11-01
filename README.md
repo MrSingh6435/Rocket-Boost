@@ -71,8 +71,9 @@ This project taught me not just *how to make a game work*, but how to make it *f
 ## 📸 Preview 
 
 > <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/6f6448b8-a820-4cf5-a2fe-fdde218ba997" />
-> <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/7b111c92-242f-4e68-95fe-b45001b75185" />
-> <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/c6d23abd-6d8d-4d95-9bfe-a03d99acc18a" /> 
+><img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/83de7243-82d2-4b37-bb5e-c52a1544ab4e" />
+> <img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/c6d23abd-6d8d-4d95-9bfe-a03d99acc18a" />
+><img width="1918" height="1078" alt="Image" src="https://github.com/user-attachments/assets/7110a65c-03d5-4e28-b7a3-d2ecce220625" />
  
 ---
 
